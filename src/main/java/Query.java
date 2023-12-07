@@ -1,3 +1,4 @@
+import componentes.Sistema;
 import entidades.*;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
